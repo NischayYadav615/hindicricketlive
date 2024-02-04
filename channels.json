@@ -1,0 +1,138 @@
+[
+  {
+    "name": "DD Sports",
+    "logo": "https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/DD%20Sports.webp",
+    "group": "",
+    "url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_146/output/manifest.mpd",
+    "license_key": "f0ca27b4509b596f843e8c182517971f",
+    "license_key2": "a1fe0fb5e5660040173fb76a26f49f13"
+  },
+  {
+    "name": "Star Sports 1 HD",
+    "logo": "https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/Star%20Sports%201%20HD.webp",
+    "group": "",
+    "url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd",
+    "license_key": "06341bf3dd635e6ca5c71188d0210373",
+    "license_key2": "2c6d9ccbf866eee8c42dcf9c343f179b"
+  },
+  {
+    "name": "Star Sports 2 HD",
+    "logo": "https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/Star%20Sports%202%20HD.webp",
+    "group": "",
+    "url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_251/output/manifest.mpd",
+    "license_key": "bc5ea952698553daaba85787001d6093",
+    "license_key2": "5287d9f823a246fdb0ecfee38f00a92a"
+  },
+  {
+    "name": "Star Sports 1 Hindi HD",
+    "logo": "https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/Star%20Sports%201%20Hindi%20HD.webp",
+    "group": "",
+    "url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd",
+    "license_key": "6a9e4204f3f8577ebf6e79b3b18573f8",
+    "license_key2": "78ca20d6f8be904eec61c0e9aca3c511"
+  },
+  {
+    "name": "Star Sports Select 1 HD",
+    "logo": "https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/Star%20Sports%20Select%201%20HD.webp",
+    "group": "",
+    "url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/manifest.mpd",
+    "license_key": "a7641523ac8758e3b1e0df228719e145",
+    "license_key2": "5718543676df110d4b457725b7ab56ec"
+  },
+  {
+    "name": "Star Sports Select 2 HD",
+    "logo": "https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/Star%20Sports%20Select%202%20HD.webp",
+    "group": "",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/manifest.mpd",
+    "license_key": "b11dd25b629159868b77d5cb4cdd8129",
+    "license_key2": "c94e61642a251d2ca3c32588688c9dd8"
+  },
+  {
+    "name": "SONY SPORTS TEN 1 HD",
+    "logo": "https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/SONY%20SPORTS%20TEN%201%20HD.webp",
+    "group": "",
+    "url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/manifest.mpd",
+    "license_key": "7d8cc6ee3c9a5a82a0071779f351a9a5",
+    "license_key2": "1d4d52698080d453b032ca44277fd274"
+  },
+  {
+    "name": "SONY SPORTS TEN 1",
+    "logo": "https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/SONY%20SPORTS%20TEN%201.webp",
+    "group": "",
+    "url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_114/output/manifest.mpd",
+    "license_key": "35694821a95c5923801ab1ba3be8ddaf",
+    "license_key2": "9008ae2db813ee6d472ab81e613db74f"
+  },
+  {
+    "name": "SONY SPORTS TEN 2 HD",
+    "logo": "https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/SONY%20SPORTS%20TEN%202%20HD.webp",
+    "group": "",
+    "url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_726/output/manifest.mpd",
+    "license_key": "1cc361e170845936aea7b95c6efb478e",
+    "license_key2": "dc78eab46264d457a5db0f0c429ce4a6"
+  },
+  {
+    "name": "SONY SPORTS TEN 2",
+    "logo": "https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/SONY%20SPORTS%20TEN%202.webp",
+    "group": "",
+    "url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_115/output/manifest.mpd",
+    "license_key": "d39d37e73df95fab9f37f2520fa24982",
+    "license_key2": "6e5a14a91f1b108b482fd16481ce1feb"
+  },
+  {
+    "name": "SONY SPORTS TEN 3 HD",
+    "logo": "https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/SONY%20SPORTS%20TEN%203%20HD.webp",
+    "group": "",
+    "url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_727/output/manifest.mpd",
+    "license_key": "4428be7aacfb557492c7fa552c3ecbf1",
+    "license_key2": "fd86b49ad205dec6b52be48e174e5192"
+  },
+  {
+    "name": "SONY SPORTS TEN 3",
+    "logo": "https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/SONY%20SPORTS%20TEN%203.webp",
+    "group": "",
+    "url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_116/output/manifest.mpd",
+    "license_key": "0d262391181150e9bb1c1fa3f86d7db8",
+    "license_key2": "ddb63e3e93d60ef3feea4cc1ecedfd05"
+  },
+  {
+    "name": "SONY SPORTS TEN 5 HD",
+    "logo": "https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/SONY%20SPORTS%20TEN%205%20HD.webp",
+    "group": "",
+    "url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_254/output/manifest.mpd",
+    "license_key": "c71dd63f411a5099844a73fbe850c9fd",
+    "license_key2": "6d99d08dd98ddbe01176e09eb77e0296"
+  },
+  {
+    "name": "Sports 18 - 1 HD",
+    "logo": "https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/Sports%2018%20-%201%20HD.webp",
+    "group": "",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1852/output/manifest.mpd",
+    "license_key": "192dd5f0779d5983a3aa18276a9fb719",
+    "license_key2": "b372ee0b282e2bcaad31702289cb338f"
+  },
+  {
+    "name": "Sports 18 - 1",
+    "logo": "https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/Sports%2018%20-%201.webp",
+    "group": "",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1809/output/manifest.mpd",
+    "license_key": "1b214085d8ec54868f6626f70cb9745c",
+    "license_key2": "82beab718460390d93e6f4f64423e729"
+  },
+  {
+    "name": "Eurosport HD",
+    "logo": "https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/Eurosport%20HD.webp",
+    "group": "",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1109/output/manifest.mpd",
+    "license_key": "ccaf3c1207e2565085abb5ecdb238bd9",
+    "license_key2": "d69e6d34b020902444743fe58d8262c9"
+  },
+  {
+    "name": "Eurosport",
+    "logo": "https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/Eurosport.webp",
+    "group": "",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_935/output/manifest.mpd",
+    "license_key": "455d533d69f35c35aa0853e6212bc2e7",
+    "license_key2": "9c37476f7d577509aa6af2f5ce09c917"
+  }
+]
